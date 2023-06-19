@@ -1,5 +1,3 @@
-# chatgpt-desktop
-
 # Flutter ChatGPT Desktop Client
 
 A desktop client for ChatGPT built using Flutter, allowing users to have interactive conversations with an AI language model.
