@@ -2,8 +2,6 @@
 
 A desktop client for ChatGPT built using Flutter, allowing users to have interactive conversations with an AI language model.
 
-![App Screenshot](screenshots/app_screenshot.png)
-
 ## Features
 
 - User-friendly chat interface
@@ -13,16 +11,16 @@ A desktop client for ChatGPT built using Flutter, allowing users to have interac
 
 ## Requirements
 
-- Flutter SDK (version x.x.x)
-- Dart (version x.x.x)
-- [ChatGPT API](https://www.chatgpt-api.com) credentials
+- Flutter SDK
+- Dart
+- [ChatGPT API](https://www.openai.com) credentials
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter-chatgpt-desktop-client.git
+   git clone https://github.com/wandabi-gs/chatgpt-desktop.git
    
 2. cd flutter-chatgpt-desktop-client
 3. flutter pub get
